@@ -1,0 +1,80 @@
+{
+ "address": "13eFkhbXXQcJqd729zRLL9tMxxhz9d4UA6",
+ "address_index": 2757554,
+ "background-color": "#FFF",
+ "clone_root": "template-new",
+ "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
+ "description": "Zeronet Search Engine lightweight and fast",
+ "favicon": "EulerFinder.ico",
+ "files": {
+  "CpuContribute.html": {
+   "sha512": "24a9fd1c7f0561a600977110f63015d2971bac3cbc1b807fa392ea6fcacb3c57",
+   "size": 1105
+  },
+  "EditSite.html": {
+   "sha512": "2f2e749eb35f41e3baf25933188e3438e453eaeee57ac1a7eabb031a20c5e95e",
+   "size": 1281
+  },
+  "EulerFinder.ico": {
+   "sha512": "fdcb6a4b42c6788177d99431f55252cae1cadd5c97ecfae632a46957d37631d2",
+   "size": 89662
+  },
+  "LICENSE": {
+   "sha512": "56db55fa4ecc5f899afa7abac40799832863193a58a5ed5a863e0c7dd99cdf54",
+   "size": 494
+  },
+  "Paper.html": {
+   "sha512": "ac7d886ef362a9e0a2c0c4102ebaa5bc0a701c6c07c788c42819d7cca18b78df",
+   "size": 1801
+  },
+  "README.md": {
+   "sha512": "52a0af6b8acd4fec9ddb5b28000ddbf76dad4446f08694788e76fde08de2d054",
+   "size": 238
+  },
+  "ReportSite.html": {
+   "sha512": "bbe85282d346f4e701590ef4176ddb79693fd0bc5d6082a26ff7c3ba1f574015",
+   "size": 1212
+  },
+  "index.html": {
+   "sha512": "76c8ed05d63586a32701cbb07a4e92c4e413d057f8c1b8e459eb79f1557d0e92",
+   "size": 2396
+  },
+  "js/ZeroFrame.js": {
+   "sha512": "19bda4bcee143d12f5bbcd0d13bfe2f9d00faf5ef378540c8911419ec27d60b6",
+   "size": 3826
+  },
+  "js/editsite.js": {
+   "sha512": "f6f6014536a6b404491cfa61555149bd8dc6753d1fcdcd390ebb4fd302dc7258",
+   "size": 1346
+  },
+  "js/index.js": {
+   "sha512": "d3ff66510092cc1bf11a5f7ee93aaee60d0c27bcb428b54aee70e8ea3a9d2c02",
+   "size": 5115
+  },
+  "js/reportsite.js": {
+   "sha512": "60725a823922b74923ce1638619f3000920608975677ca0b64807b85dfc1a8eb",
+   "size": 1277
+  },
+  "sites.json": {
+   "sha512": "be7a099259ff0046be9a6b5a6cfdbbb40d02c0f4543fbf3f11a08e92438add75",
+   "size": 387497
+  },
+  "style.css": {
+   "sha512": "13890dff33685cc59efa4985f867244211057fb6820ce2755687c889281fd073",
+   "size": 1668
+  }
+ },
+ "ignore": "config.json|.git",
+ "inner_path": "content.json",
+ "modified": 1536093534,
+ "optional": "",
+ "postmessage_nonce_security": true,
+ "signers_sign": "GxTcTgE26PFmiPHS+n87pysYjsAfV9JPqF+MxHaybK6icQROy564AQYVhlnI0UticMCuLtJEyiCDiVBK2GSD8yI=",
+ "signs": {
+  "13eFkhbXXQcJqd729zRLL9tMxxhz9d4UA6": "HNmRCT9qVfrcwB5jtQz0Wr85ITMB2v0QMnElVW44cMsjAciUq+LrSNIZBlPDlSNZgLC2A5XJ2xqDgHh0wfj18VM="
+ },
+ "signs_required": 1,
+ "title": "EulerFinder",
+ "translate": ["js/all.js"],
+ "zeronet_version": "0.6.3"
+}
